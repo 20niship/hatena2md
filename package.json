@@ -6,7 +6,6 @@
     "main": "npx ts-node main.ts"
   },
   "repository": "git@github.com:20niship/hatena2md.git",
-  "author": "20niship <idcnishimiya5378gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@types/fs-extra": "^11.0.1",
